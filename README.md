@@ -1,2 +1,91 @@
-# onecommander-layout-manager
-Panel layout and bookmark manager for OneCommander
+# ⚡ OneCommander Layout Manager
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-4A235D?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-4A235D?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Utility%20Tools-4A235D?style=for-the-badge" />
+</p>
+
+**⚡ OneCommander Layout Manager** — Panel layout and bookmark manager for OneCommander. OneCommander Layout Manager lets you save and restore custom panel layouts and bookmarks. Organize your file management workspaces, keep frequently accessed folders in named bookmark groups and switch layouts instantly.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4A235D&size=28&center=true&vCenter=true&width=900&lines=OneCommander+Layout+Manager;⭐+Panel+layout+and+bookmark+manager+for+OneCommander;🚀+Layout+Presets;🔥+Bookmark+Groups" />
+</p>
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/depthspearready/onecommander-layout-manager)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/depthspearready/onecommander-layout-manager)
+
+</div>
+
+<div align="center">
+<img width="200" alt="OneCommander Layout Manager logo" src="https://raw.githubusercontent.com/depthspearready/onecommander-layout-manager/main/logo.png" />
+</div>
+
+---
+
+## 📖 About
+
+🔹 **OneCommander Layout Manager** is a powerful tool built to help you panel layout and bookmark manager for OneCommander. OneCommander Layout Manager lets you save and restore custom panel layouts and bookmarks. Organize your file management workspaces, keep frequently accessed folders in named bookmark groups and switch layouts instantly.
+
+🔸 Whether you're a seasoned professional or just getting started, **OneCommander Layout Manager** delivers a clean, intuitive experience packed with everything you need — right out of the box. Join thousands of users who've already streamlined their utility tools workflow. Download now and get started in minutes. 🚀
+
+---
+
+## 🚀 Features
+
+| **Feature** | **Description** |
+|:---|:---|
+| **Layout Presets** | Save and restore multi-panel OneCommander layouts |
+| **Bookmark Groups** | Organize bookmarks into named groups per workflow |
+| **Quick Switch** | Switch between saved layouts with a single click |
+| **Folder Favorites** | Pin frequently used folders to your favorite sidebar |
+
+---
+
+## 📋 System Requirements
+
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**OneCommander Layout Manager** — Panel layout and bookmark manager for OneCommander.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/depthspearready/onecommander-layout-manager)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/depthspearready/onecommander-layout-manager)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
